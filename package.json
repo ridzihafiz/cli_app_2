@@ -1,0 +1,19 @@
+{
+  "name": "cli_app_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^4.7.1",
+    "bcryptjs": "^2.4.3",
+    "inquirer": "^9.1.4",
+    "prisma": "^4.7.1"
+  }
+}
